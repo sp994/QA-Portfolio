@@ -24,3 +24,5 @@ The quantity should remain at the user-defined value (`10`) and update the subto
 The quantity decrements by 1 (changing from `10` to `9`) every time the Enter key is pressed.
 
 // Developer Fix: Stopped auto-decrement on Enter key.
+
+FIXED: Developer adjusted the event listener to ignore the Enter key in the quantity field.
