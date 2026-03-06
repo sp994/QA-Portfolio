@@ -9,3 +9,8 @@ Welcome! This repository showcases my manual testing skills and my ability to do
 * **Testing Types:** Black Box, Functional, Regression, UI/UX Testing.
 * **Documentation:** Bug Reporting, Test Cases, Markdown.
 * **Platforms:** uTest, Web (Chrome/Windows).
+
+## 🛠 Tools I Use
+* **Browser DevTools:** For inspecting elements and console logs.
+* **GitHub:** For version control and documentation.
+* **uTest Platform:** For participating in real-world test cycles.
