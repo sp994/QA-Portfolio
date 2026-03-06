@@ -1,1 +1,3 @@
+// Developer Fix: Stopped auto-decrement on Enter key.
 
+FIXED: Developer adjusted the event listener to ignore the Enter key in the quantity field.
